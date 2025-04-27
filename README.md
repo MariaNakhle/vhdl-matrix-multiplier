@@ -1,6 +1,6 @@
 # VHDL Matrix Multiplier - Final Project 🖩⚡
 
-This repository contains my final project for the *Programmable Logic Devices* course at [Your Institution]. The project demonstrates a fully functional **4×4 matrix multiplier** designed in VHDL, simulated in ModelSim, synthesized with Quartus Prime, and deployed on an Altera Cyclone V FPGA board.
+This repository contains my final project for the *Programmable Logic Devices* course at [Braude College]. The project demonstrates a fully functional **4×4 matrix multiplier** designed in VHDL, simulated in ModelSim, synthesized with Quartus Prime, and deployed on an Altera Cyclone V FPGA board.
 
 ---
 
