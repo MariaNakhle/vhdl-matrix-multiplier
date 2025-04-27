@@ -108,7 +108,7 @@ Check out a demo of the project in action:
 
 ## 👨‍💻 Author
 
-- [Maria]
+- Maria
 
 ---
 
