@@ -85,8 +85,8 @@ A high-level overview showing the Data Generator, Matrix Multiplier, and Main Co
 
 Check out a demo of the project in action:
 
-- [Watch Matrices Multiply Video]([link-to-video](https://www.youtube.com/embed/o8P8AF92zM4?feature=oembed)
-
+- [Watch Matrices Multiply Video]([link-to-video](https://www.youtube.com/embed/o8P8AF92zM4?feature=oembed))
+  
 ---
 
 ## 📂 Repository Structure
